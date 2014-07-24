@@ -1,4 +1,6 @@
 <?php
+update_option('siteurl','http://roadtrip-ronak.rhcloud.com');
+update_option('home','http://roadtrip-ronak.rhcloud.com');
 /**
  * Twenty Fourteen functions and definitions
  *
